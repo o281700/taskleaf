@@ -30,3 +30,10 @@ Things you may want to cover:
 - Rails 5.2.4.4
 - ruby 2.6.5-p114
 - postgres (PostgreSQL) 13.1
+
+# tasksテーブル
+
+| column      | type   | option     |
+| ----------- | ------ | ---------- |
+| name        | string | null:false |
+| description | text   |            |
